@@ -21,5 +21,5 @@ Rentify is a web application designed to facilitate rental property management a
 
 To get started with Rentify, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Sakar-01/Rentify.git`
+1. Clone the repository: `git clone https://github.com/Shivani-Singh-Bhadauria/Rentify.git`
 2. Install dependencies for both frontend and backend:
